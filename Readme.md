@@ -18,7 +18,7 @@ according to your preferences.
 ## Table of contents
 
 ### Formatting
-* [2 Spaces for indentation](#2-spaces-for-indentation)
+* [Tabs for indentation](#tabs-for-indentation)
 * [Newlines](#newlines)
 * [No trailing whitespace](#no-trailing-whitespace)
 * [Use Semicolons](#use-semicolons)
@@ -60,9 +60,9 @@ according to your preferences.
 
 You may want to use [editorconfig.org](http://editorconfig.org/) to enforce the formatting settings in your editor. Use the [Node.js Style Guide .editorconfig file](.editorconfig) to have indentation, newslines and whitespace behavior automatically set to the rules set up below.
 
-### 2 Spaces for indentation
+### Tabs for indentation
 
-Use 2 spaces for indenting your code and swear an oath to never mix tabs and
+Use tabs for indenting your code and swear an oath to never mix tabs and
 spaces - a special kind of hell is awaiting you otherwise.
 
 ### Newlines
